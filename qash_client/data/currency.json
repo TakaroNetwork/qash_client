@@ -1,0 +1,32 @@
+{
+    "5ycR960r5pR": {
+        "name": "takaro",
+        "symbol": "tak",
+        "admin": "YYYYYiZltT8nyCmYcOf47yG6GL1YyYpMqeXrhIfb2F",
+        "nonce": 80241013
+    },
+    "tY0utb5BIh": {
+        "name": "qash",
+        "symbol": "qash",
+        "admin": "YYYYYiZltT8nyCmYcOf47yG6GL1YyYpMqeXrhIfb2F",
+        "nonce": 15034423605
+    },
+    "cDHIBJsvgpF": {
+        "name": "VC_takaro",
+        "symbol": "vtak",
+        "admin": "YYYYYiZltT8nyCmYcOf47yG6GL1YyYpMqeXrhIfb2F",
+        "nonce": 7494581967
+    },
+    "8utHvHTfMwh": {
+        "name": "VC_VCoin",
+        "symbol": "v",
+        "admin": "YYYYYiZltT8nyCmYcOf47yG6GL1YyYpMqeXrhIfb2F",
+        "nonce": 1462878451
+    },
+    "2Vwb4SZ7CkO": {
+        "name": "MC_EarthCreaterYen",
+        "symbol": "ecyen",
+        "admin": "YYYYYiZltT8nyCmYcOf47yG6GL1YyYpMqeXrhIfb2F",
+        "nonce": 10291186194
+    }
+}
